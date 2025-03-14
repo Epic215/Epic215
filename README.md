@@ -15,7 +15,7 @@ I'm 21 and currently studying Computer Science at AGH University of Science and 
 ## Familiar with:
 [![My Skills](https://skillicons.dev/icons?i=kotlin,r)](https://skillicons.dev)
 ## Tools and IDE I use:
-[![My Skills](https://skillicons.dev/icons?i=git,figma,github,vscode,clion,intellij,pycharm,idea )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,figma,github,gitlab,vscode,clion,pycharm,idea )](https://skillicons.dev)
 ## Operating Systems:
 [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
 
