@@ -9,6 +9,8 @@ I'm 21 and currently studying Computer Science at AGH University of Science and 
 
 🎯 Object Oriented Programming 🎯
 
+🧠 Interested in machine learning topics and working on expanding my knowledge. 🧠
+
 # Tools and languages:
 ## My favourites:
 [![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp)](https://skillicons.dev)
