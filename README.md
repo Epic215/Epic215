@@ -3,7 +3,7 @@
 
 ## About me
 
-I'm 21 and currently studying Computer Science at AGH University of Science and Technology in Cracow. I particularly enjoy diving into the following subjects and topics:
+I'm 22 and currently studying Computer Science at AGH University of Science and Technology in Cracow. I particularly enjoy diving into the following subjects and topics:
 
 ⚙️ I'm passionate about backend technologies and software engineering ⚙️
 
@@ -17,7 +17,7 @@ I'm 21 and currently studying Computer Science at AGH University of Science and 
 ## Familiar with:
 [![My Skills](https://skillicons.dev/icons?i=kotlin,r)](https://skillicons.dev)
 ## Tools and IDE I use:
-[![My Skills](https://skillicons.dev/icons?i=git,figma,github,gitlab,vscode,clion,pycharm,idea )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postman,docker,postgres,figma,github,gitlab,vscode,clion,pycharm,idea )](https://skillicons.dev)
 ## Operating Systems:
 [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
 
